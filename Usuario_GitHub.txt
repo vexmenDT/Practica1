@@ -1,4 +1,4 @@
-Matricula  Correo_gitHub
+Matricula  Usuario_gitHub
 
 UP180141
 UP180450
